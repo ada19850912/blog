@@ -1,34 +1,45 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: 關於 Yushan Lin (SLMT)
 image:
-  feature: abstract-5.jpg
+  feature: abstract-3.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: false
-modified: 2014-12-24
+modified: 2015-07-19
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+## 自我介紹
+### 我是一隻正在清大攻讀碩士的菸酒貓～
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+## 程式能力
+- C/C++
+- C#
+- Java
+- HTML + CSS + Javascript
+- PHP
 
-## What HPSTR brings to the table:
+## 研究
+- 所屬：NTHU NetDB Lab
+- 領域：雲端資料庫 與 分散式資料庫系統 (Cloud Databases and Distributed Database System)
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+## 其他電腦相關技能
+- 略懂 網路安全知識
+- 略懂 3D 建模
+- 略懂 Linux 系統管理
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+## 興趣
+- 喜歡貓咪，不過沒養貓
+- 教學
+- 研究複雜的程式
+- 聊八卦
+- 看漫畫
+- 上 Steam 玩電腦遊戲
 
-[^1]: Example: *domain.com/category-name/post-title*
+## 相關連結
+- [Github][1]
+- [Youtube Totorial Channel][2]
+- [Totorial Blog][3]
+
+[1]: https://github.com/slmt
+[2]: https://www.youtube.com/channel/UCmumrs_hb9s6eoVI29gLBgA
+[3]: http://slmtsite.blogspot.com/
