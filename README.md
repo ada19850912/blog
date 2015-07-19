@@ -10,7 +10,7 @@
 
 - 增加文章的整體顯示寬度
 - 縮小主標題文字大小
-- 改用 `redcarpet` 作為 markdown parser
+- 改用 `redcarpet` 作為 markdown parser (為了使用更 general 的 code highlighting 語法)
 - 首頁改成只顯示部分摘要，而不是顯示整篇文章
 
 [1]: https://mmistakes.github.io/hpstr-jekyll-theme
