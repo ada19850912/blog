@@ -4,7 +4,7 @@
 
 網址：[http://slmt.github.io](http://slmt.github.io)
 
-## 修改
+## 模板
 
 本部落格使用了 [HPSTR 模板][1]，並針對個人喜好進行了以下修改：
 
